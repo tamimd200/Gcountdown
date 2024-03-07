@@ -1,0 +1,31 @@
+body {
+    font-family: 'IM Fell Great Primer', serif; /* Use vintage font */
+    text-align: center;
+    background-image: url('dollar1.jpg'); /* Replace 'background-image.jpg' with the path to your image file */
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-position: center; /* Center the background image */
+    color: white; /* Set text color to white */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure full viewport height */
+}
+
+h1 {
+    font-size: 150px; /* Increase font size for the title */
+    margin-top: 50px; /* Add margin to push title to the top */
+	color: gold; /* Set text color to gold */
+    text-shadow: 2px 2px 2px black; /* Add black shadow effect */
+}
+
+.countdown-container {
+    margin-top: 100px;
+}
+
+#countdown {
+    font-size: 200px; /* Increase font size for countdown */
+    color: gold; /* Set text color to gold */
+    text-shadow: 4px 4px 4px black; /* Add black shadow effect */
+}
+
