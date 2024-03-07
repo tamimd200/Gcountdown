@@ -28,6 +28,13 @@ h1 {
     color: gold; /* Set text color to gold */
     text-shadow: 2px 2px 2px black; /* Add black shadow effect */
 }
+
+/* Styles for location information */
+.location-info {
+    font-size: 16px; /* Adjust font size for location */
+    font-style: italic; /* Example: italic font style */
+    /* Add other styles for location */
+}
 @media (max-width: 768px) {
     #countdown {
         font-size: 36px; /* Adjust font size for smaller screens */
