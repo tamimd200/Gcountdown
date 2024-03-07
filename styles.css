@@ -37,7 +37,7 @@ h1 {
 }
 
 /* Styles for location information */
-.location-info {
+p {
     font-size: 20px; /* Adjust font size for location */
     color: gold; /* Set text color to gold */
     text-shadow: 2px 2px 2px black; /* Add black shadow effect */
