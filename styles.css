@@ -29,16 +29,18 @@ h1 {
     text-shadow: 2px 2px 2px black; /* Add black shadow effect */
 }
 
-/* Styles for location information */
-.location-info {
-    font-size: 20px; /* Adjust font size for location */
-    color: gold; /* Set text color to gold */
-    text-shadow: 2px 2px 2px black; /* Add black shadow effect */
-}
 @media (max-width: 768px) {
     #countdown {
         font-size: 36px; /* Adjust font size for smaller screens */
         /* Add other styles for smaller screens */
     }
 }
+
+/* Styles for location information */
+.location-info {
+    font-size: 20px; /* Adjust font size for location */
+    color: gold; /* Set text color to gold */
+    text-shadow: 2px 2px 2px black; /* Add black shadow effect */
+}
+
 
