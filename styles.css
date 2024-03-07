@@ -28,4 +28,10 @@ h1 {
     color: gold; /* Set text color to gold */
     text-shadow: 4px 4px 4px black; /* Add black shadow effect */
 }
+@media (max-width: 768px) {
+    #countdown {
+        font-size: 36px; /* Adjust font size for smaller screens */
+        /* Add other styles for smaller screens */
+    }
+}
 
