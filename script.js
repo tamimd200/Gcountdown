@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var countdownElement = document.getElementById('countdown');
 
     // Set the date and time to countdown to (YYYY-MM-DD HH:MM:SS)
-    var countDownDate = new Date('2024-03-09T21:00:00').getTime();
+    var countDownDate = new Date('2024-03-10T16:30:00').getTime();
 
     var x = setInterval(function () {
         var now = new Date().getTime();
